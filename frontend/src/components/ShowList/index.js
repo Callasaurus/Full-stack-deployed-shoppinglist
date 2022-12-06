@@ -1,4 +1,3 @@
-/* This component will show the list of items that the person has entered.*/
 
 import React from "react";
 import ListItem from "../ListItem";

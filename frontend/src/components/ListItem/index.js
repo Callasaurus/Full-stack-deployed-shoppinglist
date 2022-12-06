@@ -1,4 +1,3 @@
-//This is the component which shows each individual list item.
 
 import React from "react";
 import "./listItem.css";
