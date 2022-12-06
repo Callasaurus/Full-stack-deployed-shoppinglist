@@ -6,7 +6,7 @@ What I implemented:
 - Deploying the front end with Netlify
 - Deploying the back end with Render 
 - Patch and delete models and routes in the back-end 
-- Patch (patching the 'completed' attribute of each item on mouse click and updating the database) and delete (removing from item and from the database) functionality in the front end
+- Patch (patching the 'completed' attribute of each item on mouse click and updating the database) and delete (removing an item from the database) functionality in the front end
 - Updating and improving the CSS 
 
 ## Skills
