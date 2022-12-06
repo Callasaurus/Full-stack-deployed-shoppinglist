@@ -1,6 +1,13 @@
 # Full-stack deployed shopping list app 
 
-I thought to myself: what is the most original app I could create in an hour or two to practice deployment and using the React router? After 5 seconds of brainstorming, I thought of possibly the most groundbreaking concept in human history - an app that lets you count AND fetch dad jokes. What more could someone want?
+This is a full-stack shopping list app that I took (in a basic form) from a School of Code workshop and improved over the course of an afternoon. 
+
+What I implemented: 
+- Deploying the front end with Netlify
+- Deploying the back end with Render 
+- Patch and delete models and routes in the back-end 
+- Patch (patching the 'completed' attribute of each item on mouse click and updating the database) and delete (removing from item and from the database) functionality in the front end
+- Updating and improving the CSS 
 
 ## Skills
 
@@ -8,13 +15,16 @@ Tools and languages:
 - React
 - JavaScript
 - CSS
+- Node.js
+- Express
+- SQL
 - Deployment
 - Netlify (front end)
 - Render (back end)
 
 # Deployed online:
 
-Try it yourself (give it a bit of time to load - it will initially be blank while things boot up)
+Try it yourself (give it a bit of time to load - it will initially be blank while things boot up). If you dele
 - https://callas-shopping-list.netlify.app/
 
 # App demo
