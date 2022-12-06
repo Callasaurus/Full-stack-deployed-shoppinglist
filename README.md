@@ -24,7 +24,7 @@ Tools and languages:
 
 # Deployed online:
 
-Try it yourself (give it a bit of time to load - it will initially be blank while things boot up). If you delete any when you're playing with it please add some more before you leave :)
+Try it yourself (although you may have to wait quite a while as Render's free tier is rather slow - app demo below for reference). If you delete any when you're playing with it please add some more before you leave :)
 - https://callas-shopping-list.netlify.app/
 
 # App demo
